@@ -15,5 +15,6 @@ My research interests include:
 
 Thank you for visiting my page. Please feel free to reach out to me if you have any questions or are interested in collaborating on research projects.
 
+{% include_relative sub/education.md %}
 
-{% include_relative publications.md %}
+{% include_relative sub/publications.md %}
