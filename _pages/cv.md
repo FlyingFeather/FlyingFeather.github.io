@@ -35,18 +35,18 @@ redirect_from:
 
 {% include_relative sub/education.md %}
 
-Skills
+<!-- Skills
 ======
 * Skill 1
 * Skill 2
   * Sub-skill 2.1
   * Sub-skill 2.2
   * Sub-skill 2.3
-* Skill 3
+* Skill 3 -->
 
-Publications
+<!-- Publications
 ======
-  <!-- <ul>{% for post in site.publications reversed %}
+  <ul>{% for post in site.publications reversed %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul> -->
 {% include_relative sub/publications.md %}

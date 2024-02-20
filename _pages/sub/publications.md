@@ -8,9 +8,11 @@
 
 {% for post in site.publications reversed %}
   {% include archive-single.html %}
-{% endfor %} -->
+{% endfor %} --> 
+<!-- 📚 -->
+<!-- 📄 -->
 
-## 📚 Conferences and Journals
+## Conferences and Journals
 ^ for equal contribution, * for corresponding author. 
 
 - Jin X, Li J, **Xie Y**, et al. Enhancing Graph Collaborative Filtering via Neighborhood Structure Embedding[C]//2023 IEEE International Conference on Data Mining (ICDM). IEEE, 2023: 190-199.
@@ -25,7 +27,7 @@
 - Chen L, **Xie Y**, Zheng Z, et al. Friend recommendation based on multi-social graph convolutional network[J]. IEEE Access, 2020, 8: 43618-43629. (Access 2020) [[PDF]](https://ieeexplore.ieee.org/document/9019700)
 
 
-## 📄 Preprints
+## Preprints
 - **Xie Y**, Xie T, Lin M, et al. OlaGPT: Decomposition for Enhancing Attention: Improving LLM-based Text-to-SQL through Workflow Paradigm[J]. arXiv preprint arXiv:2305.16334, 2023.
 [[PDF]](https://arxiv.org/abs/2402.10671)[[Code]](https://github.com/FlyingFeather/DEA-SQL)
 
