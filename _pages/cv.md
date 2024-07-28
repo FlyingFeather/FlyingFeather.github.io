@@ -50,6 +50,8 @@ redirect_from:
     {% include archive-single-cv.html %}
   {% endfor %}</ul> -->
 {% include_relative sub/publications.md %}
+
+{% include_relative sub/skills.md %}
   
 <!-- Talks
 ======
@@ -63,6 +65,6 @@ Teaching
     {% include archive-single-cv.html %}
   {% endfor %}</ul> -->
   
-Service and leadership
+<!-- Experience
 ======
-* 
+*  -->
