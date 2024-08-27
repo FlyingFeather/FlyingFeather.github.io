@@ -37,11 +37,11 @@
 
 ## Preprints
 
-- **Xie Y**, Jin X, Xie T, et al. OlaGPT: Empowering LLMs With Human-like Problem-Solving Abilities[J]. arXiv preprint arXiv:2305.16334, 2023.
+- **Xie Y**, Jin X, Xie T, et al. OlaGPT: Empowering LLMs With Human-like Problem-Solving Abilities. arXiv preprint arXiv:2305.16334, 2023.
 [[PDF]](https://arxiv.org/abs/2305.16334)[[Code]](https://github.com/chachalin/OlaGPT)
 
-- Jin X, Li J, Chen L, Yu C, **Xie Y**, et al. CTRL: Continuous-Time Representation Learning on Temporal Heterogeneous Information Network[J]. arXiv preprint arXiv:2405.08013, 2024.
+- Jin X, Li J, Chen L, Yu C, **Xie Y**, et al. L^ 2CL: Embarrassingly Simple Layer-to-Layer Contrastive Learning for Graph Collaborative Filtering. arXiv preprint arXiv:2407.14266, 2024. arXiv preprint arXiv:2405.08013, 2024.
 [[PDF]](https://arxiv.org/abs/2405.08013)
 
-- Li C, **Xie Y**, et al. L^ 2CL: Embarrassingly Simple Layer-to-Layer Contrastive Learning for Graph Collaborative Filtering. arXiv preprint arXiv:2407.14266, 2024.
+- Li C, **Xie Y**, et al. CTRL: Continuous-Time Representation Learning on Temporal Heterogeneous Information Network. arXiv preprint arXiv:2407.14266, 2024.
 [[PDF]](https://arxiv.org/abs/2407.14266)
