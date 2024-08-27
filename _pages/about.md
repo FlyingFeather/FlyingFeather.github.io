@@ -12,6 +12,7 @@ My research interests include:
 - Graph Representation Learning
 - Cross-domain Recommendation
 - LLM Agent
+- Code Intelligence
 
 Thank you for visiting my page. Please feel free to reach out to me if you have any questions or are interested in collaborating on research projects.
 
