@@ -21,9 +21,9 @@ repository               : "flyingfeather/flyingfeather.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile_main.jpeg"
+  avatar           : "profile.jpg"
   name             : "Yuanzhen Xie"
-  pronouns         : # example: "she/her"  
+  pronouns         : # example: "she/her"  profile_main.jpeg
   bio              : "The difference between ordinary and extraordinary is that little extra."
   location         : "Shenzhen, Guangdong, China"
   employer         : "Sun Yat-sen University"
